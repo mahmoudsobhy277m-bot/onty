@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Onty",
   description:
     "ONTI delivers powerful cleaning with a gentle touch. Modern Egyptian premium dishwashing liquid with natural ingredients.",
+    verification: {
+      google: "WSiCQEdfaYvvhNhQEL1zdlL7rKdlVb-povxZeSBPdQM",
+    }
 }
 
 export const viewport: Viewport = {
